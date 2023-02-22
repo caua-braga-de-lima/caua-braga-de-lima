@@ -8,6 +8,8 @@
 
 ![Cauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=caua-braga-de-lima&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-braga-de-lima)](https://github.com/caua-braga-de-lima/github-readme-stats)
+
 ## Technologies I have experience with:
 
 <div style = 'display: inline_block'><br>
@@ -20,4 +22,6 @@
     
 </div>
 <br>
+
+
 Interested on computer science and technology and willing to innovate the world.
