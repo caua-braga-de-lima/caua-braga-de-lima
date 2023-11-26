@@ -1,7 +1,8 @@
 # Hello! I'm Cauã Braga 🤟
 
 * 💻 Computer Engineering Student at Federal University of Ceará.
-* ♨️ Currently learning Java and Web Development.
+* ♨️ Has experience with Java and Web Development.
+* 🤖 Currently studying Data Science, Machine Learning and Deep Learning
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-braga-b89845236/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauabrgal11@gmail.com)
