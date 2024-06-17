@@ -2,10 +2,11 @@
 
 * 💻 Computer Engineering Student at Federal University of Ceará.
 * ♨️ Has experience with Java and Web Development.
-* 🤖 Currently studying Data Science, Machine Learning and Deep Learning
+* 📊 Has experience with Data Science, Machine Learning and Deep Learning
+* 🤖 Currently working with Artificial Intelligence
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-braga-b89845236/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauabrgal11@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauabrgal11@alu.ufc.br)
 
 ![Cauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=caua-braga-de-lima&show_icons=true&theme=tokyonight)
 
