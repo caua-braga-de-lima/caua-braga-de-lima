@@ -10,7 +10,7 @@
 
 ## About Me:
 
-Hey there! My name is Cauã. I'm 20 years old and I do Computer Engineering at the Federal University of Ceará. I'm currently working with Data Science and Machine Learning on my university research group in the field of Biomedical Engineering. <br>
+Hey there! My name is Cauã. I'm 21 years old and I do Computer Engineering at the Federal University of Ceará. I'm currently working with Data Science and Machine Learning on my university research group in the field of Biomedical Engineering. <br>
 
 ### Hard Skills:
 
